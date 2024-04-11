@@ -22,6 +22,7 @@ You should have at least the following versions installed:
 - Flask-SQLAlchemy   3.0.3
 
 You will also need sqlite installed for the database backend.
+//lol
 
 # Initialising the database
 
